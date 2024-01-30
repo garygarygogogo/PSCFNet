@@ -25,12 +25,13 @@ Download the following datasets and unzip them into `GT` folder
 Create a directory 'pretrain_models' to place the above backbone.
 
 ## Training and Testing
+You can train the model as followed.
 
 ```shell
     python train.py
 ```
 
-For testing, you have to prepare a pretrained model. You can train one by yourself. We will upload the pretrained models if the paper is accepted.
+For testing, you have to prepare a pretrained model. You can train one by yourself. We will upload the pretrained model if the paper is accepted.
 ```shell
     python test.py
 ```
