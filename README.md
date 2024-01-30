@@ -10,7 +10,7 @@ This is the code for the IJCNN 2024 Submission "PSCFNet: Prototype Learning and 
 - cuda 11.4
 
 
-## Download dataset
+## Prepare Dataset
 
 Download the following datasets and unzip them into `GT` folder
 
@@ -20,8 +20,8 @@ Download the following datasets and unzip them into `GT` folder
 - [DUT-OMRON](http://saliencydetection.net/dut-omron/)
 - [DUTS](http://saliencydetection.net/duts/)
 
-## Prepare backbones
-Download the following backbone and create a directory 'pretrain_models' to place it.
+## Prepare Backbone
+Download the following backbone and create a directory `pretrain_models` to place it.
 - [PVT-V2-B0](https://github.com/whai362/PVT/releases/download/v2/pvt_v2_b0.pth)
 
 ## Training and Testing
