@@ -21,8 +21,8 @@ Download the following datasets and unzip them into `GT` folder
 - [DUTS](http://saliencydetection.net/duts/)
 
 ## Prepare backbones
-[PVT-V2-B0]([https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-rsb-weights/resnet50_a1h-35c100f8.pth](https://github.com/whai362/PVT/releases/download/v2/pvt_v2_b0.pth))
-Create a directory 'pretrain_models' to place the above backbone.
+Download the following backbone and create a directory 'pretrain_models' to place it.
+- [PVT-V2-B0] (https://github.com/whai362/PVT/releases/download/v2/pvt_v2_b0.pth)
 
 ## Training and Testing
 You can train the model as followed.
