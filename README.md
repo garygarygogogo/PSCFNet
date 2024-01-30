@@ -10,7 +10,7 @@ This is the code for the IJCNN 2024 Submission "PSCFNet: Prototype Learning and 
 - cuda 11.4
 
 
-## Prepare Dataset
+## Prepare Datasets
 
 Download the following datasets and unzip them into `GT` folder
 
@@ -31,7 +31,7 @@ You can train the model as followed.
     python train.py
 ```
 
-For testing, you have to prepare a pretrained model. You can train one by yourself. We will upload the pretrained model if the paper is accepted.
+For testing, you have to prepare a pretrained model. You can train one by yourself.
 ```shell
     python test.py
 ```
