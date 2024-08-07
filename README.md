@@ -1,6 +1,6 @@
 ## PSCFNet: Prototype Learning and Spatial Consistent Feature Fusion for Efficient Salient Object Detection
 
-This is the code for the IJCNN 2024 Submission "PSCFNet: Prototype Learning and Spatial Consistent Feature Fusion for Efficient Salient Object Detection".
+This is the official code for the IJCNN 2024 paper: "PSCFNet: Prototype Learning and Spatial Consistent Feature Fusion for Efficient Salient Object Detection".
 
 
 ## Requirements
